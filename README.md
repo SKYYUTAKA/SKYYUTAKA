@@ -1,6 +1,6 @@
 - 👋 Hi, we are @SKYYUTAKA
 - 👀 We are interested in environmental design, Architecture, Landscape and Design Research
-- 🌱 I'm currently learning about headless CMS and data based application for potential future projects
+- 🌱 I'm currently learning about database application for potential future projects
 - 💞️ I’m looking to collaborate on any interesting projects dealing with future environmental design issues but we are also strugling to manage other commitments in life
 - 📫 How to reach me studio@sky-yutaka.com
 
