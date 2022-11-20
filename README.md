@@ -1,8 +1,8 @@
 - 👋 Hi, we are @SKYYUTAKA
 - 👀 We are interested in environmental design, Architecture, Landscape and Design Research
-- 🌱 I'm currently learning about database application for potential future projects
+- 🌱 We're currently learning about database application for potential future projects
 - 💞️ We're looking to collaborate on interesting projects dealing with sustainble environmental design challenges
-- 📫 How to reach me studio@sky-yutaka.com
+- 📫 How to reach us studio@sky-yutaka.com
 
 <!---
 SKYYUTAKA/SKYYUTAKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
