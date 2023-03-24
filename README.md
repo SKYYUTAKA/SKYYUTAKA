@@ -1,4 +1,4 @@
-- 👋 Hi, we are @SKYYUTAKA
+- 👋 Hello we are @SKYYUTAKA
 - 👀 We are interested in environmental design, Architecture, Landscape and Design Research
 - 🌱 We're currently learning about database application for potential future projects
 - 💞️ We're looking to collaborate on interesting projects dealing with sustainble environmental design challenges
